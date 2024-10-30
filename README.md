@@ -11,5 +11,5 @@ Realizamos un servidor web donde servimos una web de tipo red social como la del
 4. Ya puedes ejecutar el proyecto usando `npm start`
 
 # Requiere
-- NODE: Se debe instalar NODE en el sistema operativo
-- GIT: Debe tener Instalado GIT
+- **NODE:** Se debe instalar NODE en el sistema operativo
+- **GIT:** Debe tener Instalado GIT
